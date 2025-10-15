@@ -16,7 +16,7 @@ const router=JSONServer.router("db.json")
 
 //4.defime port to run the server
 
-const PORT=3000
+const PORT=3000|| process.env.PORT
 //5.use middleware
 
 rBuilder.use(middleware)
