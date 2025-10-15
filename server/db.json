@@ -1,0 +1,39 @@
+{
+  "all-resumes": [
+    
+      
+    {
+      "id": "9f79",
+      "profesionalData": {
+        "name": "Abin Alias",
+        "jobTitle": "web developer",
+        "location": "kochi",
+        "email": "abinalias004@gmail.com",
+        "phone": "987654876",
+        "gitHub": "https://github.com/ABI22N",
+        "linkedIn": "https://github.com",
+        "portfolio": "https://"
+      },
+      "educationData": {
+        "course": "CSE",
+        "college": "CEA",
+        "university": "KTU",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "mearn",
+        "company": "luminar",
+        "jobLocation": "kakkand",
+        "duration": "6 month"
+      },
+      "skill": [
+        "JAVASCRIPT",
+        "CSS",
+        "HTML",
+        "REACT"
+      ],
+      "summary": "resume completed"
+    }
+    
+  ]
+}
